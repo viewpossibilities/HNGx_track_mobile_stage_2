@@ -1,5 +1,8 @@
 # Flutter/Dart CV App
 
+Appetize Link:
+https://appetize.io/app/hqhtot2ondwnyl6c7f2wpsf7um
+
 This is a Flutter/Dart project for a CV (Curriculum Vitae) application. The app allows users to view and edit their personal information and bio. Here's a comprehensive README to help you understand and work with this project.
 
 ## Table of Contents
