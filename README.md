@@ -1,4 +1,4 @@
-# Flutter/Dart CV App
+# CV App (HBGX MOBILE TRACK INTERSHIP PROJECT)
 
 Appetize Link:
 https://appetize.io/app/hqhtot2ondwnyl6c7f2wpsf7um
